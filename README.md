@@ -1,6 +1,6 @@
 ### Estou estudando na AluraBoas vindas ao meu perfil 💙💙
 
-vinicius da cunha brito
+meu nome é vinicius da Cunha Brito
 
 ### Estou estudando na www.alura.com.br
 Estou me desenvolvendo na linguagem JavaScript
