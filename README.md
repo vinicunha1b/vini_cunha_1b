@@ -1,4 +1,4 @@
-### Estou estudando na AluraBoas vindas ao meu perfil 💙💙
+### Estou estudando na Alura Boas vindas ao meu perfil 💙💙
 
 Meu nome é vinicius da Cunha Brito
 
